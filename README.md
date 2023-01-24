@@ -16,7 +16,7 @@ It's a clone game of Atari-2600
 
 **Key Bindings**
 
-*"A,D,W,S"* or *"Arrow Keys* keys to *MOVE* 
+*"A,D,W,S"* keys to *MOVE* 
 
 *"Space"* or *"Mouse Left"* keys to *ATTACK*
 ## ***🔗 My Links***
