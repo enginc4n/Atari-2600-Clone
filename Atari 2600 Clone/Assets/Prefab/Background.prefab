@@ -129,4 +129,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daf75c8613ccd994396cb46be419c0e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slideSpeed: {x: 0.5, y: 0}
+  slideSpeed: {x: 0.2, y: 0}
