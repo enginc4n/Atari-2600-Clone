@@ -22,7 +22,7 @@ It's a clone game of Atari-2600
 
 *"Left Stcik"* key to *MOVE* 
 
-*"Left Button"* key to *ATTACK*
+*"Right Button"* key to *ATTACK*
 
 ## ***🔗 My Links***
 
