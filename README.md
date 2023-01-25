@@ -18,7 +18,12 @@ It's a clone game of Atari-2600
 
 *"A,D,W,S"* keys to *MOVE* 
 
-*"Space"* or *"Mouse Left"* keys to *ATTACK*
+*"Space"* key to *ATTACK*
+
+*"Left Stcik"* key to *MOVE* 
+
+*"Left Button"* key to *ATTACK*
+
 ## ***🔗 My Links***
 
 
